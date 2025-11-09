@@ -48,7 +48,7 @@ Address:${address}
 
   
   const encodedMessage = encodeURIComponent(message.trim());
-  const phoneNumber = "919562213392";
+  const phoneNumber = "919400670734";
   const whatsappUrl = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${encodedMessage}`;
 
   window.open(whatsappUrl, "_blank");
