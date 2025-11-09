@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Real Flower Earrings",
+    "price": 350,
+    "image": "earrings.jpeg",
+    "description":"Real Dried Daisy Flower Earrings"
+  },
+  {
+    "id": 2,
+    "name": "Classic Necklace",
+    "price": 850,
+    "image": "necklace1.jpeg",
+    "description":"Cotton thread Ghungroo Necklace (Adjustable length)"
+  },
+  {
+    "id": 3,
+    "name": "Lippan Art",
+    "price": 1120,
+    "image": "lippanyellow.png",
+    "description":"Lippan art on 12 inch round MDF with wall hanging hook"
+  },
+  {
+    "id": 4,
+    "name": "Real Flower Bracelets",
+    "price": 450,
+    "image": "bracelets.png",
+    "description":"Real Dried Flower Bracelets with pearl strap"
+  }
+]
